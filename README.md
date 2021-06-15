@@ -1,5 +1,7 @@
 # Hello I'm Chris!
 
+![My stats](https://github-readme-stats.vercel.app/api?username=chrisdewa&theme=radical)
+
 I'm a Developmental Pediatrician from Mexico City.
 Yes, you read that right. I'm also neurodiverse, I have ADHD and Hyperfocus is my superpower.
 
