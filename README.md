@@ -11,4 +11,4 @@ I use programming only scarcely in my practice as I mostly do it for fun, althou
 
 Usually, I program discord-related things on python, but i also like to do some backend stuff.
 
-![Metrics](https://metrics.lecoq.io/chrisdewa?template=classic&config.timezone=America%2FMexico_City)
+![Metrics](https://metrics.lecoq.io/chrisdewa?template=classic)
